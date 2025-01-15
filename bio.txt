@@ -1,0 +1,6 @@
+Name: [Your Name]
+Age: [Your Age]
+Favorite Color: [Color]
+Dream Job: [Job]
+Current City: [City]
+Favorite Food: [Food]
