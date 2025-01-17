@@ -1,0 +1,9 @@
+Education:
+1. [Degree/Certification]
+   Institution: [School Name]
+   Year: [Year]
+   Major: [Field of Study]
+
+2. [Other Certifications/Training]
+   Provider: [Institution Name]
+   Year: [Year]
