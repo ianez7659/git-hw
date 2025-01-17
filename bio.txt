@@ -6,3 +6,7 @@ Current City: [City]
 Favorite Food: [Food]
 Favorite Movie: [Movie]
 Favorite Music: [Genre/Artist]
+Skills:
+- [Skill 1]
+- [Skill 2]
+- [Skill 3]
