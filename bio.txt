@@ -6,13 +6,12 @@ Current City: [City]
 Favorite Food: [Food]
 Favorite Movie: [Movie]
 Favorite Music: [Genre/Artist]
-<<<<<<< HEAD
 Languages:
 - [Language 1]
 - [Language 2]
-=======
+
 Skills:
 - [Skill 1]
 - [Skill 2]
 - [Skill 3]
->>>>>>> bio-update
+
